@@ -20,7 +20,7 @@ Title <- "Title of your paper goes here"
 
 This repository contains the data and code for our paper:
 
-> Authors, (YYYY). _`r Title`_. Name of journal/book <https://doi.org/xxx/xxx>
+> Akane Shibata, (2019). _`r Title`_. Name of journal/book <https://doi.org/xxx/xxx>
 
 Our pre-print is online here:
 
