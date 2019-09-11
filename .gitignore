@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+akene.Rcheck/
+akene*.tar.gz
+akene*.tgz

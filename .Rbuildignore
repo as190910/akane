@@ -1,0 +1,10 @@
+^akene\.Rproj$
+^\.Rproj\.user$
+^akene\.Rcheck$
+^akene.*\.tar\.gz$
+^akene.*\.tgz$
+^LICENSE\.md$
+^README\.Rmd$
+^README-.*\.png$
+^CONDUCT\.md$
+^CONTRIBUTING\.md$
