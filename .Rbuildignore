@@ -1,8 +1,8 @@
-^akene\.Rproj$
+^akane\.Rproj$
 ^\.Rproj\.user$
-^akene\.Rcheck$
-^akene.*\.tar\.gz$
-^akene.*\.tgz$
+^akane\.Rcheck$
+^akane.*\.tar\.gz$
+^akane.*\.tgz$
 ^LICENSE\.md$
 ^README\.Rmd$
 ^README-.*\.png$
